@@ -53,3 +53,4 @@ If you are willing to contribute, see <http://quantlib.org/newdeveloper.shtml>.
 QuantLib is Non-Copylefted Free Software.
 QuantLib is OSI Certified Open Source Software.
 OSI Certified is a certification mark of the Open Source Initiative.
+Ratan
